@@ -1,5 +1,5 @@
 # putty-solarized
-This repository exists for my convenience only.
+**This repository exists for my convenience only. NO SUPPORT!**
 
 Designed for [PortableApps](http://portableapps.com/apps/internet/putty_portable)' [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) version.
 
